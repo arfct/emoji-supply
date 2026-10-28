@@ -60,8 +60,8 @@ function convertBase(value, from_base, to_base) {
 
 const emojiUrl = (codePoint) => {
   let cp = codePoint.split("-").filter(x => x !== "fe0f").map(s => s.padStart(4, "0")).join("_");
-  return `https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u${cp}.png`;
-  return `https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u${cp}.svg`
+  return `https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/png/128/emoji_u${cp}.png`;
+  return `https://raw.githubusercontent.com/googlefonts/noto-emoji/main/2D/svg/emoji_u${cp}.svg`
 }
 
 const mixmojiUrl = (r, c) => {
