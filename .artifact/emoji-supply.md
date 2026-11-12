@@ -1,6 +1,7 @@
 ---
 title: emoji.supply
 date: 2021-02
+status: released
 category: product
 tags:
   - web
@@ -16,8 +17,7 @@ media:
     alt: A page in three bands, a grid of emoji at the top with two hearts highlighted, a grid of green-heart combinations in the middle, and at the bottom a blue heart plus a green heart equals a cluster of green and blue hearts
 credits:
   - alcor
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 At emoji.supply the older of two tools, Emoji Wallpaper, sets its controls out as a sentence, which by default reads "Bubbles of random 🍌🍓🍊🍇 on a gradient of", followed by a color swatch and the words "A cozy fit for this screen". Each word is a menu or a field. There are nine patterns, among them hexes, spirals, a swirl, a sprinkle and stacks, and the emoji sit on a solid color, on a gradient or in monochrome. The picture is drawn for the current screen or page, a cover image, a virtual background or a square, and downloads as a PNG. Every setting is kept in the address, so a copied link reproduces the wallpaper.
