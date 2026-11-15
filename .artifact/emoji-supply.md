@@ -2,7 +2,7 @@
 title: emoji.supply
 date: 2021-02
 status: released
-category: product
+category: web-tool
 tags:
   - web
 url: https://emoji.supply
